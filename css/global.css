@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --vacancies-background-color: rgb(247, 246, 242);
+	--vacancies__title__subtitle: rgb(255, 93, 40);
+	--vacancies__title__name: rgb(75, 86, 106);
+	--vacancies__title__text: rgb(130, 134, 143);  
+	--vacancies__grid__list: rgb(255, 255, 255);
+	--vacancies__inner__text__cook: rgb(75, 86, 106);
+	--vacancies__inner__text__month: rgb(155, 158, 164);
+	--vacancies__inner__svg: rgb(255, 93, 40);
+	--vacancies__inner__svg__text: rgb(130, 134, 143);
+	--vacancies__inner__button__text: rgb(255, 255, 255);
+	--vacancies__inner__button: rgb(255, 93, 40);
+}
+
